@@ -1,0 +1,12 @@
+## py38 for others
+spnflow 0.5.2
+spflow 0.0.41
+h5py 3.2.1
+scikit-image 0.18.1
+
+
+## py27 for rnade
+h5py 2.10.0
+theano-1.0.5
+configparser
+tqdm

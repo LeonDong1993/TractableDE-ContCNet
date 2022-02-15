@@ -1,0 +1,9 @@
+.pyc
+.history*
+*~
+*.bak
+*.old
+*.bin
+.project
+.pydevproject
+.settings
