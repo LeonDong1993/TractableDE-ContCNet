@@ -1,1 +1,4 @@
-# TractableDE-ContCNet
+- export conda environment, and spnflow packages (this no longer provided, packages renamed)
+- add results showed in paper
+- pack dataset and share
+- add visualization results on mnist as well
