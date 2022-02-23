@@ -1,5 +1,4 @@
 *.hdf5
-old/
 *.pyc
-__pycache__
 *.ffs_db
+__pycache__
